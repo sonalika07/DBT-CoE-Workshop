@@ -1,0 +1,31 @@
+!Sample_title	Sample_ID	!Sample_source_name_ch1	Genotype	Treatment
+M28-0h-rep1	GSM6598201	"Seeds of M28,Control,rep1"	 EMS mutant	drought 0h
+M28-0h-rep2	GSM6598202	"Seeds of M28,Control,rep2"	 EMS mutant	drought 0h
+M28-0h-rep3	GSM6598203	"Seeds of M28,Control,rep3"	 EMS mutant	drought 0h
+M28-1h-rep1	GSM6598204	"Seeds of M28,drought 1 hour,rep1"	 EMS mutant	drought 1h
+M28-1h-rep2	GSM6598205	"Seeds of M28,drought 1 hour,rep2"	 EMS mutant	drought 1h
+M28-1h-rep3	GSM6598206	"Seeds of M28,drought 1 hour,rep3"	 EMS mutant	drought 1h
+M28-2h-rep1	GSM6598207	"Seeds of M28,drought 2 hour,rep1"	 EMS mutant	drought 2h
+M28-2h-rep2	GSM6598208	"Seeds of M28,drought 2 hour,rep2"	 EMS mutant	drought 2h
+M28-2h-rep3	GSM6598209	"Seeds of M28,drought 2 hour,rep3"	 EMS mutant	drought 2h
+M28-4h-rep1	GSM6598210	"Seeds of M28,drought 4 hour,rep1"	 EMS mutant	drought 4h
+M28-4h-rep2	GSM6598211	"Seeds of M28,drought 4 hour,rep2"	 EMS mutant	drought 4h
+M28-4h-rep3	GSM6598212	"Seeds of M28,drought 4 hour,rep3"	 EMS mutant	drought 4h
+M28-8h-rep1	GSM6598213	"Seeds of M28,drought 8 hour,rep1"	 EMS mutant	drought 8h
+M28-8h-rep2	GSM6598214	"Seeds of M28,drought 8 hour,rep2"	 EMS mutant	drought 8h
+M28-8h-rep3	GSM6598215	"Seeds of M28,drought 8 hour,rep3"	 EMS mutant	drought 8h
+K326-0h-rep1	GSM6598216	"Seeds of K326,Control,rep1"	 K326	drought 0h
+K326-0h-rep2	GSM6598217	"Seeds of K326,Control,rep2"	 K326	drought 0h
+K326-0h-rep3	GSM6598218	"Seeds of K326,Control,rep3"	 K326	drought 0h
+K326-1h-rep1	GSM6598219	"Seeds of K326,drought 1 hour,rep1"	 K326	drought 1h
+K326-1h-rep2	GSM6598220	"Seeds of K326,drought 1 hour,rep2"	 K326	drought 1h
+K326-1h-rep3	GSM6598221	"Seeds of K326,drought 1 hour,rep3"	 K326	drought 1h
+K326-2h-rep1	GSM6598222	"Seeds of K326,drought 2 hour,rep1"	 K326	drought 2h
+K326-2h-rep2	GSM6598223	"Seeds of K326,drought 2 hour,rep2"	 K326	drought 2h
+K326-2h-rep3	GSM6598224	"Seeds of K326,drought 2 hour,rep3"	 K326	drought 2h
+K326-4h-rep1	GSM6598225	"Seeds of K326,drought 4 hour,rep1"	 K326	drought 4h
+K326-4h-rep2	GSM6598226	"Seeds of K326,drought 4 hour,rep2"	 K326	drought 4h
+K326-4h-rep3	GSM6598227	"Seeds of K326,drought 4 hour,rep3"	 K326	drought 4h
+K326-8h-rep1	GSM6598228	"Seeds of K326,drought 8 hour,rep1"	 K326	drought 8h
+K326-8h-rep2	GSM6598229	"Seeds of K326,drought 8 hour,rep2"	 K326	drought 8h
+K326-8h-rep3	GSM6598230	"Seeds of K326,drought 8 hour,rep3"	 K326	drought 8h
